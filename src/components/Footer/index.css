@@ -1,0 +1,29 @@
+.footer-container {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+margin-top: 50px;
+}
+
+.responsive-footer {
+display: flex;
+justify-content: flex-end;
+justify-content: flex-end;
+margin-bottom: 40px;
+}
+
+.footer-buttons {
+    margin-left: 40px;
+    height: 50px;
+    width: 80px;
+    border-radius: 8px;
+    padding: 10px;
+
+}
+p{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 30px;
+font-weight: 90;
+margin-left: 40px;
+}
